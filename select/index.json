@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぐらでーしょん",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2025-12-07T08:03:27.872737Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぐらでーしょん",
+      "artist": "KANA-BOON, 北澤ゆうほ",
+      "has_synced": false,
+      "path": "select/pl_01_ぐらでーしょん_KANA-BOON,_北澤ゆうほ.txt"
+    }
+  ]
+}
